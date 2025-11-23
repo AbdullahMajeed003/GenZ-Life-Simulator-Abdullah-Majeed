@@ -10,3 +10,8 @@ It also makes teamwork easier because everyone can work on the same project with
 New Reset Stats function has been added to GenZ life Simulator Code
 
 Version control also lets me safely experiment with small updates, like adding new features or fixing minor bugs, without breaking my main project.
+
+I can also use version control to experiment with small updates or new features safely.
+
+
+
