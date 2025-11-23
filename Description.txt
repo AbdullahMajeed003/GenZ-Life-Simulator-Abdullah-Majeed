@@ -8,3 +8,5 @@ Version control is a system that records every update you make to your code. It 
 It also makes teamwork easier because everyone can work on the same project without overwriting each other’s changes.
 
 New Reset Stats function has been added to GenZ life Simulator Code
+
+Version control also lets me safely experiment with small updates, like adding new features or fixing minor bugs, without breaking my main project.
