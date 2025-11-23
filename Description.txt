@@ -1,4 +1,4 @@
-Version Control (Python)
+Version Control (Python):
 
 Version control is a tool that helps you keep track of changes in your Python code. 
 It saves different stages of your project so you can return to an earlier version if something goes wrong.
@@ -6,3 +6,5 @@ It also makes it easier to work with others because everyone can update the same
 
 Version control is a system that records every update you make to your code. It lets you move back to older versions whenever needed and helps keep your project organized as it grows. 
 It also makes teamwork easier because everyone can work on the same project without overwriting each other’s changes.
+
+New Reset Stats function has been added to GenZ life Simulator Code
